@@ -8,6 +8,4 @@ My name is Keme-ebi Remember Bolou.
 
 ### My github stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keme-ebi&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-### Top used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keme-ebi)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
