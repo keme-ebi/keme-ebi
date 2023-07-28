@@ -4,6 +4,7 @@ My name is Keme-ebi Remember Bolou.
 ## About me
 - I'm a software engineer in training at [alx africa](https://alxafrica.com).
 - Higly motivated and detail oriented individual.
+- Interested in building softwares worthy of being first-class rated.
 - I'm currently open to collaborations, work, and internships so as to learn and gain real-life experience.
 
 ### My github stats
